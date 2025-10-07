@@ -40,7 +40,6 @@ Minha especialidade é testes de software, automação e garantia de qualidade. 
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
     <img src="https://img.shields.io/badge/Supertest-FF6C37?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Supertest Badge">
-    <img src="https://img.shields.io/badge/Supertest-FF6C37?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Supertest Badge">
     <img src="https://img.shields.io/badge/k6-7D64FF.svg?style=for-the-badge&logo=k6&logoColor=white">
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
 </p>
